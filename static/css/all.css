@@ -1,0 +1,49 @@
+.c{
+    text-align: center;
+}
+.borde{
+    border: 1px solid black;
+}
+
+.txtblack{
+    color: black;
+}
+.bannertxt{
+    background-color: rgb(105, 105, 105, 0.7);
+}
+
+.imgmain{
+    width: 100%;
+}
+
+.alink{
+    text-decoration: none;
+    cursor: auto;
+}
+
+/*FOOTER*/
+.foottxt{
+    background-color: rgb(105, 105, 105, 0.9);
+}
+.foottxtblack{
+    color: darkgrey;
+}
+.networkimg{
+    width: 40px;
+    height: 40px;
+    border: none;
+}
+.footimg{
+    width: 200px;
+    height: 140px;
+    border: none;
+}
+.unstyled{
+    list-style: none;
+}
+
+.div.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
